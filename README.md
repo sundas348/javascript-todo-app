@@ -1,4 +1,4 @@
-# TaskFlow — JavaScript To-Do App (Week 2)
+# TaskFlow — JavaScript To-Do App 
 
 A fully functional to-do list application built with vanilla JavaScript (ES6+), demonstrating core JavaScript fundamentals: DOM manipulation, event handling, array methods, and browser localStorage for data persistence.
 
