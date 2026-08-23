@@ -2,6 +2,9 @@
 
 A fully functional to-do list application built with vanilla JavaScript (ES6+), demonstrating core JavaScript fundamentals: DOM manipulation, event handling, array methods, and browser localStorage for data persistence.
 
+🔗 GitHub Repository: https://github.com/sundas348/javascript-todo-app 
+🌐 Live Demo: https://sundas348.github.io/javascript-todo-app/
+
 ## Live Features
 
 - **Add tasks** — with category, priority level, and due date
