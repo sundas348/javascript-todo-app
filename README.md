@@ -85,5 +85,4 @@ function getFiltered() {
 
 **Sundas Bibi**
 Computer Science Student, COMSATS University Islamabad
-📧 sundasm348@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sundas-bibi-7249b8280)
